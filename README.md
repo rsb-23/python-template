@@ -1,23 +1,13 @@
-# getsetgo
- Its a common submodule for all python projects
+# python-template-repo
+
+It is a template repo for my python projects
 
 ### Setup
-Run below codes in your git repo from root directory.
-1. Configure getsetgo submodule
-   - Add
-     ```cmd
-     git submodule add -b main https://github.com/rsb-23/getsetgo.git getsetgo
-     git submodule init
-     ```
-   - Update
-     ```cmd
-     git submodule update --remote
-     ```
-2. Run setup script
-   ```cmd
-   getsetgo/integrate.bat
-   ```
+
+```cmd
+python one_time.py
+```
 
 <hr/>
 
-> Disclaimer: Work in Progress...
+> ⚠️ Work in Progress...
